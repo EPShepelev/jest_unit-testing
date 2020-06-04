@@ -1,0 +1,24 @@
+{
+  "name": "2020.06.04_jest_unit-testing",
+  "version": "1.0.0",
+  "description": "learn base Jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPShepelev/jest_unit-testing.git"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "learning"
+  ],
+  "author": "Shepelev Evgeniy <shepelev.ep@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EPShepelev/jest_unit-testing/issues"
+  },
+  "homepage": "https://github.com/EPShepelev/jest_unit-testing#readme"
+}
